@@ -1,0 +1,6 @@
+__pycache__/
+testing_data/
+detected_faces/
+Data/
+Real Time Face Recognition using Kafka/testing_data/output.mp4
+Real Time Face Recognition using Kafka/testing_data/output_z.mp4
